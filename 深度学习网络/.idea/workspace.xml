@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af554f49-150b-41ee-8cb8-77fb960bbe32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z9foSEFl4FljH6RmVi2UOEGktd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.anaconda" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="深度学习网络" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="深度学习网络" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.use_inceptionv1">
+    <configuration name="use_inceptionv1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="深度学习网络" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inceptioin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inceptioin/use_inceptionv1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="深度学习网络" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vggNet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vggNet/use_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.use_inceptionv1" />
+        <item itemvalue="Python.use_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af554f49-150b-41ee-8cb8-77fb960bbe32" name="Default Changelist" comment="" />
+      <created>1584256404573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584256404573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584264138208">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="363" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1584264138208" />
+    <state x="420" y="82" key="FileChooserDialogImpl" timestamp="1584262525770">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584262525770" />
+    <state width="1259" height="291" key="GridCell.Tab.0.bottom" timestamp="1584265149755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="291" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584265149755" />
+    <state width="1259" height="291" key="GridCell.Tab.0.center" timestamp="1584265149755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="291" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584265149755" />
+    <state width="1259" height="291" key="GridCell.Tab.0.left" timestamp="1584265149755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="291" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584265149755" />
+    <state width="1259" height="291" key="GridCell.Tab.0.right" timestamp="1584265149755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="291" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584265149755" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1584262481436">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584262481436" />
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1584258851873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="329" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584258851873" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584263771318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584263771318" />
+  </component>
+</project>
